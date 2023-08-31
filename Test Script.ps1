@@ -1,0 +1,2 @@
+﻿$env:HOSTNAME
+$PSVersionTable
